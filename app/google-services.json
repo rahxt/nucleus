@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "401060427956",
+    "firebase_url": "https://nucleus-crossedproductions.firebaseio.com",
+    "project_id": "nucleus-crossedproductions",
+    "storage_bucket": "nucleus-crossedproductions.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401060427956:android:c06fd9bcfbf8e1df",
+        "android_client_info": {
+          "package_name": "com.crossedproductions.nucleus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401060427956-7gi4ojt2d4b1rv1eht9tigtdg9las87c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crossedproductions.nucleus",
+            "certificate_hash": "62ee3945da561ef13928e48833a552f36d916bd0"
+          }
+        },
+        {
+          "client_id": "401060427956-em1jgvn7mvtc9gs0fa0u0rhipqdglfcb.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "401060427956-em1jgvn7mvtc9gs0fa0u0rhipqdglfcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1uztY62u_nSCkmH_fSQF2dgUdKfDV7TA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401060427956-em1jgvn7mvtc9gs0fa0u0rhipqdglfcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
